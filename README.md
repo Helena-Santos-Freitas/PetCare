@@ -25,5 +25,5 @@ A aplicação funciona por meio de uma interface de **terminal interativa**, sen
 - **Back-end:** [Helena Santos](https://github.com/Helena-Santos-Freitas)  
 - **Front-end:** [Aryan Assis](https://github.com/AryanAssis)
 
-> Projeto acadêmico ou de aprendizado com potencial para expansão futura, como inclusão de banco de dados ou interface gráfica.
+> Projeto acadêmico ou de aprendizado com potencial para expansão futura, como inclusão de banco de dados.
 
