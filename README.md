@@ -21,7 +21,7 @@ A aplicação funciona por meio de uma interface de **terminal interativa**, sen
 - Registro e consulta de histórico médico dos animais
 
 ---
-## 👨‍💻 Colaboradores
+## 	:man_technologist: Colaboradores
 - **Back-end:** [Helena Santos](https://github.com/Helena-Santos-Freitas)  
 - **Front-end:** [Aryan Assis](https://github.com/AryanAssis)
 
